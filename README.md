@@ -1,6 +1,7 @@
 # ChatRoom
 # Real Time Chat Application 
 React used for frontend
+&&
 Node.js and Socket.io for Backend
 
 Setup:
